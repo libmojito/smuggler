@@ -1,0 +1,11 @@
+---
+smuggler:
+  oauth2:
+    clientID: ""
+    clientSecret: ""
+    scopes: ""
+    endPoint:
+      auth: ""
+      token: ""
+    callback: ""
+...
